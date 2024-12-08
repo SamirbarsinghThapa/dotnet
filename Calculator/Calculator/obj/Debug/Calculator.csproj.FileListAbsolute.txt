@@ -1,0 +1,11 @@
+D:\Samir\.net\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Samir\.net\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Samir\.net\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Samir\.net\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Samir\.net\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Samir\.net\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Samir\.net\Calculator\Calculator\obj\Debug\Calculator.Result.resources
+D:\Samir\.net\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Samir\.net\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Samir\.net\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Samir\.net\Calculator\Calculator\obj\Debug\Calculator.pdb

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Samir\\.net\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9B2584-D9E8-4467-B969-7A92796FCD7A}|Calculator\\Calculator.csproj|d:\\samir\\.net\\calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD9B2584-D9E8-4467-B969-7A92796FCD7A}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9B2584-D9E8-4467-B969-7A92796FCD7A}|Calculator\\Calculator.csproj|d:\\samir\\.net\\calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9B2584-D9E8-4467-B969-7A92796FCD7A}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9B2584-D9E8-4467-B969-7A92796FCD7A}|Calculator\\Calculator.csproj|d:\\samir\\.net\\calculator\\calculator\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD9B2584-D9E8-4467-B969-7A92796FCD7A}|Calculator\\Calculator.csproj|solutionrelative:calculator\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9B2584-D9E8-4467-B969-7A92796FCD7A}|Calculator\\Calculator.csproj|d:\\samir\\.net\\calculator\\calculator\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9B2584-D9E8-4467-B969-7A92796FCD7A}|Calculator\\Calculator.csproj|solutionrelative:calculator\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\Samir\\.net\\Calculator\\Calculator\\Result.cs",
+              "RelativeDocumentMoniker": "Calculator\\Result.cs",
+              "ToolTip": "D:\\Samir\\.net\\Calculator\\Calculator\\Result.cs",
+              "RelativeToolTip": "Calculator\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T02:31:55.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Result.cs [Design]",
+              "DocumentMoniker": "D:\\Samir\\.net\\Calculator\\Calculator\\Result.cs",
+              "RelativeDocumentMoniker": "Calculator\\Result.cs",
+              "ToolTip": "D:\\Samir\\.net\\Calculator\\Calculator\\Result.cs [Design]",
+              "RelativeToolTip": "Calculator\\Result.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T02:31:32.88Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Samir\\.net\\Calculator\\Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculator\\Form1.cs",
+              "ToolTip": "D:\\Samir\\.net\\Calculator\\Calculator\\Form1.cs",
+              "RelativeToolTip": "Calculator\\Form1.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAcwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T02:26:21.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Samir\\.net\\Calculator\\Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculator\\Form1.cs",
+              "ToolTip": "D:\\Samir\\.net\\Calculator\\Calculator\\Form1.cs [Design]",
+              "RelativeToolTip": "Calculator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T02:25:11.85Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
